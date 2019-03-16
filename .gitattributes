@@ -1,1 +1,2 @@
 *.gotmpl		text eol=lf
+./generator/bindata.go binary
